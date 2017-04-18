@@ -7,7 +7,7 @@ visualization work flow
 :)happy every day
 ***
 ## 主要模块
-(./DWF/blob/master/WF%E6%95%B0%E6%8D%AE%E6%B5%81%E5%9B%BE.png)
+![结构图](./DWF/blob/master/WF%E6%95%B0%E6%8D%AE%E6%B5%81%E5%9B%BE.png)
 * #### [分布式同步模块](https://github.com/dddhhhlll/DWF/projects/1 "分布式同步模块")
 实现可适配 *es* *zookeeper* *redis* *mysql* 等组件的*分布式锁*、
 *分布式取值*、*分布式赋值*等功能。
