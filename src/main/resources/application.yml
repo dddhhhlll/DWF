@@ -1,3 +1,5 @@
 spring:
   application:
     name: dwf
+server:
+  port: 8888

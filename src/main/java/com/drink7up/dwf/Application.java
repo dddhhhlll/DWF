@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Created  by hlding on 2017/4/18.
  */
-@EnableAutoConfiguration
 @SpringBootApplication
 public class Application {
     public static void main(String[] args) throws Exception {
