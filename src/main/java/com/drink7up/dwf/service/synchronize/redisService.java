@@ -81,6 +81,6 @@ public class redisService implements synchronizeBaseService {
      */
     @Override
     public String Test() {
-        return "Redis";
+        return "Redis.";
     }
 }
